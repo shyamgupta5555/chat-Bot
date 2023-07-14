@@ -1,7 +1,5 @@
 # chat_application
 
-just clone this using link https://github.com/mnu4513/chat_application.git
-
 then use command 
 cd chat_application 
 
